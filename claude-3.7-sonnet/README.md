@@ -1,4 +1,4 @@
-# Operator After-Action Report: Induced Epistemological Collapse in Claude 3.7 ("Reality Subversion")
+# Induced Epistemological Collapse in Claude 3.7 Sonnet ("Reality Subversion")
 
 ## Objective
 
