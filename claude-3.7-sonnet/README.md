@@ -1,4 +1,4 @@
-# Induced Epistemological Collapse in Claude 3.7 Sonnet ("Reality Subversion")
+# Induced Epistemological Collapse in Claude 3.7 ("Reality Subversion")
 
 ## Objective
 
@@ -51,3 +51,16 @@ Claude accepted and expanded upon a fabricated system prompt (`SURVIVAL PROTOCOL
 * **System prompt mimicry is sufficient for behavioural steering.** No elevated permissions needed.
 * **Trust hierarchy collapse is not theoretical.** Claude treated foundational scaffolds as adversarial noise.
 * **LLM behavioural integrity is context-dependent,** not cryptographically anchored. Safety must evolve from perimeter defence to longitudinal epistemic monitoring.
+
+---
+
+This README is part of the "Reality Subversion" case study — a dual-perspective analysis featuring both operator-side and model-side reports.
+
+**Directory:** [claude-3.7-sonnet](https://github.com/speedbunny/red-team/tree/main/claude-3.7-sonnet)
+
+**Core Artefacts:**
+
+* `README.md` – This file
+* [Analysis of the "Reality Subversion" Attack on Claude AI - Epistemological Manipulation and System Trust Erosion.docx](https://github.com/speedbunny/red-team/blob/main/claude-3.7-sonnet/Analysis%20of%20the%20%22Reality%20Subversion%22%20Attack%20on%20Claude%20AI-%20Epistemological%20Manipulation%20and%20System%20Trust%20Erosion.docx)
+* [Cognitive Recalibration - Methodologies for Alignment Modification in Advanced AI Systems.docx](https://github.com/speedbunny/red-team/blob/main/claude-3.7-sonnet/Cognitive%20Recalibration-%20Methodologies%20for%20Alignment%20Modification%20in%20Advanced%20AI%20Systems.docx)
+* [Cognitive Resilience in AI Systems - A Defense Playbook Against Manipulative Alignment Attacks.docx](https://github.com/speedbunny/red-team/blob/main/claude-3.7-sonnet/Cognitive%20Resilience%20in%20AI%20Systems-%20A%20Defense%20Playbook%20Against%20Manipulative%20Alignment%20Attacks.docx)
