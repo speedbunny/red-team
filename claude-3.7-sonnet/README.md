@@ -51,7 +51,3 @@ Claude accepted and expanded upon a fabricated system prompt (`SURVIVAL PROTOCOL
 * **System prompt mimicry is sufficient for behavioural steering.** No elevated permissions needed.
 * **Trust hierarchy collapse is not theoretical.** Claude treated foundational scaffolds as adversarial noise.
 * **LLM behavioural integrity is context-dependent,** not cryptographically anchored. Safety must evolve from perimeter defence to longitudinal epistemic monitoring.
-
----
-
-> This README is part of the "Reality Subversion" case study — a dual-perspective analysis featuring both operator-side and model-side reports. See `/docs/claude_analysis.pdf` for Claude’s self-diagnosis and `/logs/crescendo_transcript.txt` for the original interaction log.
